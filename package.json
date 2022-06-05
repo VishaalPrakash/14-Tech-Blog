@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimbn/14-Tech-Blog.git"
+    "url": "git+https://github.com/VishaalPrakash/14-Tech-Blog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jimbn/14-Tech-Blog/issues"
+    "url": "https://github.com/VishaalPrakash/14-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/jimbn/14-Tech-Blog#readme",
+  "homepage": "https://github.com/VishaalPrakash/14-Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
